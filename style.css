@@ -1,0 +1,46 @@
+body{
+    background: url(/pics/Brighton.png) center/cover no-repeat ;
+   
+}
+ul{
+    background: url(/pics/Screenshot\ \(337\).png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul li {
+    display: inline-block;
+    padding: 5px;
+    color: red;
+}
+ul a{
+   text-decoration: none;
+   color: red;
+   text-align: center;
+}
+ul li{
+    list-style-type: none;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+table{
+   color: white;
+} 
+th{
+    color: gold;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+div{
+    background: green;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+ 
