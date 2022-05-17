@@ -1,13 +1,38 @@
+
 body{
     background: url(/pics/Brighton.png) center/cover no-repeat ;
    
 }
-ul{
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ ul{
     background: url(/pics/Screenshot\ \(337\).png);
     background-repeat: no-repeat;
     display: inline-block;
-    margin-left: auto;
+}
+.table{
+    margin-left:  auto;
     margin-right: auto;
+   
+}
+thead{
+    background: blue;
+    padding: 5px;
+}
+#l{
+    color: red;
+}
+#w{
+    color: lightgreen;
+}
+td{
+    background: blueviolet;
+    padding: 5px;
+    border-radius: 5px;
+    opacity: .8;
 }
 ul li {
     display: inline-block;
